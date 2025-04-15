@@ -21,7 +21,4 @@ A simple and sleek Expense Tracker built with **React.js** to help manage daily 
 - **Context API** for global state management
 - Basic CSS for styling (optionally Tailwind or Bootstrap)
 
----
-
-## 📁 Folder Structure
 
