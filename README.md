@@ -22,3 +22,6 @@ A simple and sleek Expense Tracker built with **React.js** to help manage daily 
 - Basic CSS for styling 
 
 
+## 🧠 What I Learned
+- **React Hooks**: useState, useContext, useReducer,
+- **Context API** for global state management
