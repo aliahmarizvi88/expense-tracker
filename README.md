@@ -10,15 +10,15 @@ A simple and sleek Expense Tracker built with **React.js** to help manage daily 
 - Real-time balance and transaction history updates
 - Uses **React Context API** for global state management
 - Clean and responsive UI
-- Persistent data with local state (optional: add localStorage)
+- Persistent data with local state
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **React.js**
-- **React Hooks**: useState, useContext, useReducer, useEffect
+- **React Hooks**: useState, useContext, useReducer,
 - **Context API** for global state management
-- Basic CSS for styling (optionally Tailwind or Bootstrap)
+- Basic CSS for styling 
 
 
